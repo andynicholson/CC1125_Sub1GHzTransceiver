@@ -461,7 +461,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TESASSAD
+DocumentUniqueId=FGEAOCGX
 
 [Document26]
 DocumentPath=Library\SCH - PASSIVES - INDUCTOR.SCHLIB
@@ -478,7 +478,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TESASSAD
+DocumentUniqueId=PORFKLAN
 
 [Document27]
 DocumentPath=Library\SCH - PASSIVES - POLARISED CAPACITOR.SCHLIB
@@ -495,7 +495,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TESASSAD
+DocumentUniqueId=XXJPVPHI
 
 [Document28]
 DocumentPath=Library\SCH - PASSIVES - RESISTOR.SCHLIB
@@ -682,7 +682,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IAMBRYSF
+DocumentUniqueId=WXWASILI
 
 [Document39]
 DocumentPath=Library\PCB - LEADED - SOT-23 - DIODES SOT-23-3.PCBLIB
@@ -784,7 +784,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DORARXOT
 
 [Document45]
 DocumentPath=Library\PCB - DIODES - SOD123F.PCBLIB
@@ -835,7 +835,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IAMBRYSF
+DocumentUniqueId=DEHBIIRQ
 
 [Document48]
 DocumentPath=Library\PCB - CONNECTOR - FCI - FCI 06-381-2PIN.PCBLIB
@@ -903,7 +903,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KBGGXBTL
+DocumentUniqueId=BVPLBWGH
 
 [Document52]
 DocumentPath=Library\SCH - CONNECTORS - 4 PIN.SCHLIB
@@ -920,7 +920,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KBGGXBTL
+DocumentUniqueId=WWQIYCSV
 
 [Document53]
 DocumentPath=Library\SCH - CONNECTORS - 8 PIN.SCHLIB
@@ -937,7 +937,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KBGGXBTL
+DocumentUniqueId=EOUMXRSJ
 
 [Document54]
 DocumentPath=TransceiverBoard.PcbDoc
@@ -956,85 +956,202 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMTQXOWC
 
+[Document55]
+DocumentPath=UART-FTDI-USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LKDUJMJF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - TransceiverBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs\Pick Place for TransceiverBoard.txt
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\TransceiverBoard-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs\TransceiverBoard-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\TransceiverBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs\TransceiverBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs\TransceiverBoard.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs\TransceiverBoard.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs\TransceiverBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs\TransceiverBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs\TransceiverBoard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs\TransceiverBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs\TransceiverBoard.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs\TransceiverBoard.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs\TransceiverBoard.GM28
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs\TransceiverBoard.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs\TransceiverBoard.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs\TransceiverBoard.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs\TransceiverBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs\TransceiverBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs\TransceiverBoard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\TransceiverBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\TransceiverBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\TransceiverBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs\TransceiverBoard.RUL
+DItemRevisionGUID=
+
 [Parameter1]
-Name=SCH_REV
-Value=A
+Name=CAGE_CODE
+Value=?????
 
 [Parameter2]
-Name=PCB_REV
-Value=A
-
-[Parameter3]
-Name=PCB_PART_NUMBER
-Value=<PCB PN>
-
-[Parameter4]
-Name=PCB_ENGINEER_APP_DATE
-Value=--/--/----
-
-[Parameter5]
-Name=PCB_ENGINEER
-Value=- -----
-
-[Parameter6]
-Name=PCB_DWG_NO
-Value=<PCB DWG NO>
-
-[Parameter7]
-Name=PCB_DESIGNER_APP_DATE
-Value=--/--/----
-
-[Parameter8]
-Name=PCB_DESIGNER
-Value=- -----
-
-[Parameter9]
-Name=PCB_CHECKER_APP_DATE
-Value=--/--/----
-
-[Parameter10]
-Name=PCB_CHECKER
-Value=- -----
-
-[Parameter11]
-Name=PCB_ASSEMBLY_NO
-Value=<PCB ASSY NO>
-
-[Parameter12]
-Name=PCB_ANG_TOL
-Value=+/-1/2
-
-[Parameter13]
-Name=PCB_3_DEC_TOL
-Value=+/-.010
-
-[Parameter14]
-Name=PCB_2_DEC_TOL
-Value=+/-.01
-
-[Parameter15]
-Name=DOC_NO_SCH_DWG
-Value=<SCH DWG NO>
-
-[Parameter16]
-Name=DOC_NO_FAB_DWG
-Value=<FAB DWG NO>
-
-[Parameter17]
-Name=DOC_NO_BOM
-Value=<BOM DOC NO>
-
-[Parameter18]
-Name=DOC_NO_ASSY_DWG
-Value=<ASSY DWG NO>
-
-[Parameter19]
 Name=CONTRACT_NUMBER
 Value=<CONTRACT NO>
 
+[Parameter3]
+Name=DOC_NO_ASSY_DWG
+Value=<ASSY DWG NO>
+
+[Parameter4]
+Name=DOC_NO_BOM
+Value=<BOM DOC NO>
+
+[Parameter5]
+Name=DOC_NO_FAB_DWG
+Value=<FAB DWG NO>
+
+[Parameter6]
+Name=DOC_NO_SCH_DWG
+Value=<SCH DWG NO>
+
+[Parameter7]
+Name=PCB_2_DEC_TOL
+Value=+/-.01
+
+[Parameter8]
+Name=PCB_3_DEC_TOL
+Value=+/-.010
+
+[Parameter9]
+Name=PCB_ANG_TOL
+Value=+/-1/2
+
+[Parameter10]
+Name=PCB_ASSEMBLY_NO
+Value=<PCB ASSY NO>
+
+[Parameter11]
+Name=PCB_CHECKER
+Value=- -----
+
+[Parameter12]
+Name=PCB_CHECKER_APP_DATE
+Value=--/--/----
+
+[Parameter13]
+Name=PCB_DESIGNER
+Value=- -----
+
+[Parameter14]
+Name=PCB_DESIGNER_APP_DATE
+Value=--/--/----
+
+[Parameter15]
+Name=PCB_DWG_NO
+Value=<PCB DWG NO>
+
+[Parameter16]
+Name=PCB_ENGINEER
+Value=- -----
+
+[Parameter17]
+Name=PCB_ENGINEER_APP_DATE
+Value=--/--/----
+
+[Parameter18]
+Name=PCB_PART_NUMBER
+Value=<PCB PN>
+
+[Parameter19]
+Name=PCB_REV
+Value=A
+
 [Parameter20]
-Name=CAGE_CODE
-Value=?????
+Name=SCH_REV
+Value=A
 
 [Configuration1]
 Name=Default Configuration
@@ -1088,7 +1205,7 @@ OutputDir=Project Outputs
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1190,42 +1307,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1292,39 +1389,113 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:180|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:2|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:10|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:12|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:14|Column#17=Name:Q Factor,Fixed:False,Metric:False,Visible:False,Sort:None,Position:149|Column#18=Name:Insulation Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#19=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#20=Name:Test Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:168|Column#21=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:153|Column#22=Name:ComponentLink7Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#23=Name:Inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#24=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:143|Column#25=Name:Max Repetitive Reverse Voltage (Vrrm),Fixed:False,Metric:False,Visible:False,Sort:None,Position:104|Column#26=Name:Package Quantity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:140|Column#27=Name:ESR (Equivalent Series Resistance),Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#28=Name:Case Code (Metric),Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#29=Name:Core Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#30=Name:Military Standard,Fixed:False,Metric:False,Visible:False,Sort:None,Position:110|Column#31=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:172|Column#32=Name:Number of ADC Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:116|Column#33=Name:ComponentLink7URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#34=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:113|Column#35=Name:Insulation Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#36=Name:Connector Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#37=Name:ComponentLink4URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#38=Name:Operating Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:135|Column#39=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#40=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#41=Name:Self Resonant Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:158|Column#42=Name:Min Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:112|Column#43=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:115|Column#44=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:141|Column#45=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#46=Name:Memory Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:109|Column#47=Name:Power Supply Rejection Ratio (PSRR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:147|Column#48=Name:Current - Transmitting,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#49=Name:Lens Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90|Column#50=Name:Number of Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:125|Column#51=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#52=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#53=Name:DC Resistance (DCR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#54=Name:Dropout Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#55=Name:Lens Transparency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91|Column#56=Name:DC Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#57=Name:Luminous Intensity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93|Column#58=Name:Max Forward Surge Current (Ifsm),Fixed:False,Metric:False,Visible:False,Sort:None,Position:99|Column#59=Name:ComponentLink8Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#60=Name:Fastening Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#61=Name:Oscillator Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:137|Column#62=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#63=Name:Reverse Recovery Time,Fixed:False,Metric:False,Visible:False,Sort:None,Position:155|Column#64=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:154|Column#65=Name:Number of Programmable I/O,Fixed:False,Metric:False,Visible:False,Sort:None,Position:127|Column#66=Name:Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:174|Column#67=Name:Peripherals,Fixed:False,Metric:False,Visible:False,Sort:None,Position:142|Column#68=Name:ComponentLink9Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#69=Name:Number of Ports,Fixed:False,Metric:False,Visible:False,Sort:None,Position:126|Column#70=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:163|Column#71=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:170|Column#72=Name:Frequency Stability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#73=Name:Core Architecture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#74=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:118|Column#75=Name:Forward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#76=Name:Sensitivity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:159|Column#77=Name:Reverse Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:156|Column#78=Name:Number of Regulators,Fixed:False,Metric:False,Visible:False,Sort:None,Position:129|Column#79=Name:Max DC Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98|Column#80=Name:Number of GPIO,Fixed:False,Metric:False,Visible:False,Sort:None,Position:120|Column#81=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:157|Column#82=Name:Shielding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:161|Column#83=Name:Max Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:100|Column#84=Name:Min Current Limit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111|Column#85=Name:Max Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101|Column#86=Name:ComponentLink4Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#87=Name:ComponentLink5Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#88=Name:Composition,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#89=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#90=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#91=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:166|Column#92=Name:Radiation Hardening,Fixed:False,Metric:False,Visible:False,Sort:None,Position:150|Column#93=Name:Weight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:177|Column#94=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#95=Name:Max Power Dissipation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:103|Column#96=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:165|Column#97=Name:Number of Transmitters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:133|Column#98=Name:Power Dissipation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:145|Column#99=Name:ComponentLink10Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#100=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#101=Name:Manufacturer Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95|Column#102=Name:Case Code (Imperial),Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#103=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106|Column#104=Name:Output Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:138|Column#105=Name:Test Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:167|Column#106=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#107=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#108=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#109=Name:ComponentLink6Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#110=Name:Memory Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:108|Column#111=Name:Height - Seated (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#112=Name:Number of Receivers,Fixed:False,Metric:False,Visible:False,Sort:None,Position:128|Column#113=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#114=Name:Number of Lines,Fixed:False,Metric:False,Visible:False,Sort:None,Position:123|Column#115=Name:Number of Terminations,Fixed:False,Metric:False,Visible:False,Sort:None,Position:131|Column#116=Name:Housing Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#117=Name:Power Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:146|Column#118=Name:ComponentLink8URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#119=Name:Body Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#120=Name:Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:139|Column#121=Name:Max Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97|Column#122=Name:Housing Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#123=Name:Density,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#124=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88|Column#125=Name:Impedance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#126=Name:ComponentLink5URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#127=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:102|Column#128=Name:Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:169|Column#129=Name:Watchdog Timer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:175|Column#130=Name:Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:176|Column#131=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:114|Column#132=Name:Data Bus Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#133=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:152|Column#134=Name:Inductance Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#135=Name:Load Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92|Column#136=Name:Illumination Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#137=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:148|Column#138=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:162|Column#139=Name:Number of Timers/Counters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:132|Column#140=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:178|Column#141=Name:Series Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:160|Column#142=Name:Number of Outputs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:124|Column#143=Name:Polarity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:144|Column#144=Name:RAM Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:151|Column#145=Name:Working Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:179|Column#146=Name:Number of I/Os,Fixed:False,Metric:False,Visible:False,Sort:None,Position:121|Column#147=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:164|Column#148=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#149=Name:Current - Receiving,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#150=Name:Forward Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#151=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:171|Column#152=Name:Dielectric Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#153=Name:Number of Terminals,Fixed:False,Metric:False,Visible:False,Sort:None,Position:130|Column#154=Name:Average Rectified Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#155=Name:ComponentLink10URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#156=Name:Frequency Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#157=Name:Lens Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89|Column#158=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:136|Column#159=Name:Manufacturer 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94|Column#160=Name:Body Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#161=Name:ComponentLink6URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#162=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#163=Name:Number of Circuits,Fixed:False,Metric:False,Visible:False,Sort:None,Position:117|Column#164=Name:ComponentLink9URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#165=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#166=Name:Max Reverse Voltage (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:105|Column#167=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#168=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#169=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#170=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#171=Name:Number of Elements,Fixed:False,Metric:False,Visible:False,Sort:None,Position:119|Column#172=Name:Max Voltage Rating (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:107|Column#173=Name:Halogen Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#174=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:173|Column#175=Name:Dominant Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#176=Name:Flammability Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#177=Name:Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:96|Column#178=Name:Number of LEDs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:122|Column#179=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#180=Name:Operating Supply Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:134|Column#181=Name:Element Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.80|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration3_Name3=OutputConfigurationParameter2
+Configuration3_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name4=OutputConfigurationParameter3
+Configuration3_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name5=OutputConfigurationParameter4
+Configuration3_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name6=OutputConfigurationParameter5
+Configuration3_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name7=OutputConfigurationParameter6
+Configuration3_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name8=OutputConfigurationParameter7
+Configuration3_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name9=OutputConfigurationParameter8
+Configuration3_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name10=OutputConfigurationParameter9
+Configuration3_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name11=OutputConfigurationParameter10
+Configuration3_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name12=OutputConfigurationParameter11
+Configuration3_Item12=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=1|Mirror=False|Name=Layer 2Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name13=OutputConfigurationParameter12
+Configuration3_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MidLayer2|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name14=OutputConfigurationParameter13
+Configuration3_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name15=OutputConfigurationParameter14
+Configuration3_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name16=OutputConfigurationParameter15
+Configuration3_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name17=OutputConfigurationParameter16
+Configuration3_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name18=OutputConfigurationParameter17
+Configuration3_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name19=OutputConfigurationParameter18
+Configuration3_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name20=OutputConfigurationParameter19
+Configuration3_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name21=OutputConfigurationParameter20
+Configuration3_Item21=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=2|Mirror=False|Name=Layer 1Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name22=OutputConfigurationParameter21
+Configuration3_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MidLayer1|Polygon=Hidden|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name23=OutputConfigurationParameter22
+Configuration3_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name24=OutputConfigurationParameter23
+Configuration3_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name25=OutputConfigurationParameter24
+Configuration3_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name26=OutputConfigurationParameter25
+Configuration3_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name27=OutputConfigurationParameter26
+Configuration3_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name28=OutputConfigurationParameter27
+Configuration3_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name29=OutputConfigurationParameter28
+Configuration3_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name30=OutputConfigurationParameter29
+Configuration3_Item30=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=3|Mirror=False|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name31=OutputConfigurationParameter30
+Configuration3_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name32=OutputConfigurationParameter31
+Configuration3_Item32=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name33=OutputConfigurationParameter32
+Configuration3_Item33=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name34=OutputConfigurationParameter33
+Configuration3_Item34=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name35=OutputConfigurationParameter34
+Configuration3_Item35=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name36=OutputConfigurationParameter35
+Configuration3_Item36=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name37=OutputConfigurationParameter36
+Configuration3_Item37=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name38=OutputConfigurationParameter37
+Configuration3_Item38=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
 
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1343,7 +1514,67 @@ OutputName3=Solder/Paste Mask Prints
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.84|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration3_Name3=OutputConfigurationParameter2
+Configuration3_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name4=OutputConfigurationParameter3
+Configuration3_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopPaste|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name5=OutputConfigurationParameter4
+Configuration3_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name6=OutputConfigurationParameter5
+Configuration3_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name7=OutputConfigurationParameter6
+Configuration3_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name8=OutputConfigurationParameter7
+Configuration3_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name9=OutputConfigurationParameter8
+Configuration3_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Name10=OutputConfigurationParameter9
+Configuration3_Item10=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Bottom Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name11=OutputConfigurationParameter10
+Configuration3_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomPaste|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name12=OutputConfigurationParameter11
+Configuration3_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name13=OutputConfigurationParameter12
+Configuration3_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name14=OutputConfigurationParameter13
+Configuration3_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name15=OutputConfigurationParameter14
+Configuration3_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name16=OutputConfigurationParameter15
+Configuration3_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration3_Name17=OutputConfigurationParameter16
+Configuration3_Item17=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=2|Mirror=False|Name=Top Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name18=OutputConfigurationParameter17
+Configuration3_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopSolder|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name19=OutputConfigurationParameter18
+Configuration3_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name20=OutputConfigurationParameter19
+Configuration3_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name21=OutputConfigurationParameter20
+Configuration3_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name22=OutputConfigurationParameter21
+Configuration3_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name23=OutputConfigurationParameter22
+Configuration3_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
+Configuration3_Name24=OutputConfigurationParameter23
+Configuration3_Item24=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=False|Name=Bottom Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Name25=OutputConfigurationParameter24
+Configuration3_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name26=OutputConfigurationParameter25
+Configuration3_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name27=OutputConfigurationParameter26
+Configuration3_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name28=OutputConfigurationParameter27
+Configuration3_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name29=OutputConfigurationParameter28
+Configuration3_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
+Configuration3_Name30=OutputConfigurationParameter29
+Configuration3_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
 OutputType4=Final
 OutputName4=Final Artwork Prints
 OutputDocumentPath4=
@@ -1360,6 +1591,10 @@ OutputName6=NC Drill Files
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+Configuration6_Name1=ForceUpdateSettings
+Configuration6_Item1=False
+Configuration6_Name2=OutputConfigurationParameter1
+Configuration6_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType7=ODB
 OutputName7=ODB++ Files
 OutputDocumentPath7=
@@ -1377,28 +1612,30 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=Gerber
-OutputName10=Gerber Files
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777220~1,16842753~1,16777218~1,16777219~1,16842754~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908302~1,16908303~1,16908311~1,16908312~1,16908315~1,16908316~1,16908317~1,16908318~1,16908319~1,16908320~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
-OutputType11=Gerber X2
-OutputName11=Gerber X2 Files
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777219~1,16777218~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908316~1,16908319~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -1423,16 +1660,18 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration4_Name1=Filter
 Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1381|FormHeight=649|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration4_Name3=GroupOrder
-Configuration4_Item3=Comment=True|Footprint=True
-Configuration4_Name4=OutputConfigurationParameter1
-Configuration4_Item4=upplier 1=118|Supplier Part Number 1=165|Supplier Unit Price 1=173|Quantity=129
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Description=100|Designator=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100
+Configuration4_Name2=ForceUpdateSettings
+Configuration4_Item2=False
+Configuration4_Name3=General
+Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1381|FormHeight=649|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name4=GroupOrder
+Configuration4_Item4=Comment=True|Footprint=True
+Configuration4_Name5=OutputConfigurationParameter1
+Configuration4_Item5=upplier 1=118|Supplier Part Number 1=165|Supplier Unit Price 1=173|Quantity=129
+Configuration4_Name6=SortOrder
+Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration4_Name7=VisibleOrder
+Configuration4_Item7=Description=100|Designator=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
@@ -1447,7 +1686,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1627,7 +1866,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1671,7 +1910,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1732,7 +1971,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=VersaLink C405
+TargetPrinter=Brother MFC-J6530DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1858,8 +2097,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1928,8 +2165,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2077,7 +2312,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -2098,7 +2332,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -2117,7 +2350,6 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
